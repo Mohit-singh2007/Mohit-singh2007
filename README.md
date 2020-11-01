@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohit - aka [MohitSingh][website] 👋
 
-[![Website](https://img.shields.io/website?label=MohitSingh.com&style=for-the-badge&url=https%3A%2F%2FMohitsingh)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=MohitSingh.com&style=for-the-badge&url=https%3A%2F%2FMohitsingh)](https://mohitsingh2007.netlify.app/)
 
 ## I'm a Son, Brother, Developer, and a good Friend!!
 
