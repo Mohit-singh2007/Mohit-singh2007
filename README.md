@@ -1,5 +1,5 @@
 ### Hi there 👋  Iam Mohit,
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2FMohitsingh)](https://mohitsingh2007.netlify.app/)
+[![Website](https://img.shields.io/website?label=MohitSingh&style=for-the-badge&url=https%3A%2F%2FMohitsingh)](https://mohitsingh2007.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Son, Brother, Developer, and Friend!!
