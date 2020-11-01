@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=MohitSingh.com&style=for-the-badge&url=https%3A%2F%2FMohitsingh)](https://codestackr.com)
 
-## I'm a Son, Brother, Developer, and Friend!!
+## I'm a Son, Brother, Developer, and a good Friend!!
 
 
 - 🌱 I’m currently learning everything 🤣
